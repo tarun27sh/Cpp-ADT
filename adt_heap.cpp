@@ -1,8 +1,6 @@
 /*  
  * for +ve nos only
  *
- * TODO:
- * 1. In the last run, I see 2 '9's in the heap, we only insert one, fix it
  *
  */
 
